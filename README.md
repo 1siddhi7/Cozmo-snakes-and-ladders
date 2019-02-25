@@ -2,7 +2,7 @@
 
 This repository includes the details of my ongoing project to make [Cozmo](https://www.anki.com/en-us/cozmo) play the board game "Snakes and Ladders". Click on the image below for video.
 
-[![video](https://github.com/1siddhi7/Cozmo-snakes-and-ladders/blob/master/video.png)](https://youtu.be/ll2K65WT30k)
+[![video](https://github.com/1siddhi7/Cozmo-snakes-and-ladders/blob/master/video.png)](https://www.youtube.com/watch?v=7b-oNFXcudE&feature=youtu.be)
 
 [Here](https://github.com/1siddhi7/Cozmo-snakes-and-ladders/blob/master/game.py) is the python implementation of the same.
 
